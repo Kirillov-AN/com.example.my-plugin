@@ -1,4 +1,5 @@
-module github.com/mattermost/mattermost-plugin-starter-template
+module github.com/Kirillov-AN/com.example.my-plugin
+
 
 go 1.16
 
